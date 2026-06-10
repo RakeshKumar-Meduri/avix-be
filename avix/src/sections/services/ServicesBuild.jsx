@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import img1 from "../../assets/images/3_2.png";
-import img2 from "../../assets/images/3_3.png";
-import img3 from "../../assets/images/3_4.png";
+import img1 from "../../assets/images/3_2.webp";
+import img2 from "../../assets/images/3_3.webp";
+import img3 from "../../assets/images/3_4.webp";
 
 export default function ServicesBuild() {
   const services = [

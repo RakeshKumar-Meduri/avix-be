@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
-import ctaImg from "../../assets/images/4_17.png";
+import ctaImg from "../../assets/images/4_17.webp";
 
 export default function CTA() {
 

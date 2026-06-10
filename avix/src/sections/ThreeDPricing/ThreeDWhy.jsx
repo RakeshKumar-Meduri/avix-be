@@ -1,5 +1,5 @@
-import img1 from "../../assets/images/3dpricing6.png"
-import img2 from "../../assets/images/3dpricing7.png"
+import img1 from "../../assets/images/3dpricing6.webp"
+import img2 from "../../assets/images/3dpricing7.webp"
 
 export default function ThreeDWhy() {
   return (

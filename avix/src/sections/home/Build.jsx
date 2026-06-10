@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
-import buildImg from "../../assets/images/4_3.png";
+import buildImg from "../../assets/images/4_3.webp";
 import buildIcon from "../../assets/images/build.svg";
 
 export default function Build() {

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import locationImg from "../../assets/images/4_2.png";
+import locationImg from "../../assets/images/4_2.webp";
 
 export default function Location() {
   return (

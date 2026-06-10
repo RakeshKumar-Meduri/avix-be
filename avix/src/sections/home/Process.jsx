@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import step1 from "../../assets/images/4_10.png";
-import step2 from "../../assets/images/4_11.png";
-import step3 from "../../assets/images/4_12.png";
+import step1 from "../../assets/images/4_10.webp";
+import step2 from "../../assets/images/4_11.webp";
+import step3 from "../../assets/images/4_12.webp";
 
 export default function Process() {
   const steps = [

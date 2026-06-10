@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import imgBig from "../../assets/images/2_2.png";
+import imgBig from "../../assets/images/2_2.webp";
 
 export default function AboutHero() {
   return (

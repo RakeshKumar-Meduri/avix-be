@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import portfolioImg from "../../assets/images/2_4.png";
+import portfolioImg from "../../assets/images/2_4.webp";
 
 export default function AboutPortfolio() {
   return (

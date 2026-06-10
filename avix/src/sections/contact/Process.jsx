@@ -1,6 +1,6 @@
-import img1 from "../../assets/images/1_8.png"
-import img2 from "../../assets/images/1_9.png"
-import img3 from "../../assets/images/1_10.png"
+import img1 from "../../assets/images/1_8.webp"
+import img2 from "../../assets/images/1_9.webp"
+import img3 from "../../assets/images/1_10.webp"
 
 function Process() {
   return (

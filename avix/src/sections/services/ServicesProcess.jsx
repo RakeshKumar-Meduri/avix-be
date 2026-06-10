@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import img1 from "../../assets/images/4_10.png";
-import img2 from "../../assets/images/4_11.png";
-import img3 from "../../assets/images/4_12.png";
+import img1 from "../../assets/images/4_10.webp";
+import img2 from "../../assets/images/4_11.webp";
+import img3 from "../../assets/images/4_12.webp";
 
 export default function ServicesProcess() {
   return (

@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom"
-import img1 from "../../assets/images/1_2.png"
-import img2 from "../../assets/images/1_3.png"
-import img3 from "../../assets/images/1_4.png"
+import img1 from "../../assets/images/1_2.webp"
+import img2 from "../../assets/images/1_3.webp"
+import img3 from "../../assets/images/1_4.webp"
 
 function ConnectOptions() {
   const navigate = useNavigate()

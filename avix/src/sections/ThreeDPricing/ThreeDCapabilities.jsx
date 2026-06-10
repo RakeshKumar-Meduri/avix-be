@@ -1,6 +1,6 @@
 import icon1 from "../../assets/images/animation.svg"
 import icon2 from "../../assets/images/Vector.svg"
-import sectionImg from "../../assets/images/3dpricing2.png"
+import sectionImg from "../../assets/images/3dpricing2.webp"
 
 export default function ThreeDCapabilities() {
   return (

@@ -1,9 +1,9 @@
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
-import img1 from "../../assets/images/4_4.png";
-import img2 from "../../assets/images/4_5.png";
-import img3 from "../../assets/images/4_6.png";
+import img1 from "../../assets/images/4_4.webp";
+import img2 from "../../assets/images/4_5.webp";
+import img3 from "../../assets/images/4_6.webp";
 
 export default function Services() {
 

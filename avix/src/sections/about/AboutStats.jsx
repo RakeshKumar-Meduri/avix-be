@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
-import statsImg from "../../assets/images/2_3.png";
+import statsImg from "../../assets/images/2_3.webp";
 
 function useCounter(end, duration = 1500) {
   const [count, setCount] = useState(0);

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { useNavigate } from "react-router-dom"
-import campaignImg from "../../assets/images/socialmedia4.png"
+import campaignImg from "../../assets/images/socialmedia4.webp"
 
 export default function AdCampaignSection() {
 

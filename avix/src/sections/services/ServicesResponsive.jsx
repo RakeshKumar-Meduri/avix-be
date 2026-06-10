@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import screenImg from "../../assets/images/3_15.png";
+import screenImg from "../../assets/images/3_15.webp";
 import callToActionIcon from "../../assets/images/call_to_action.svg";
 import pagesIcon from "../../assets/images/pages.svg";
 

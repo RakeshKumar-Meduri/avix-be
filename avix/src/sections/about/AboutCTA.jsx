@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import ctaImg from "../../assets/images/4_17.png";
+import ctaImg from "../../assets/images/4_17.webp";
 
 export default function AboutCTA() {
   return (

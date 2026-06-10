@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import mainImg from "../../assets/images/3_16.png";
+import mainImg from "../../assets/images/3_16.webp";
 
 export default function SearchSection() {
   return (

@@ -2,9 +2,9 @@ import conceptIcon from "../../assets/images/script.svg"
 import modelIcon from "../../assets/images/modeling.svg"
 import arrowIcon from "../../assets/images/arrow.svg"
 
-import img1 from "../../assets/images/3dpricing3.png"
-import img2 from "../../assets/images/3dpricing4.png"
-import img3 from "../../assets/images/3dpricing5.png"
+import img1 from "../../assets/images/3dpricing3.webp"
+import img2 from "../../assets/images/3dpricing4.webp"
+import img3 from "../../assets/images/3dpricing5.webp"
 
 export default function ThreeDProcess() {
   return (

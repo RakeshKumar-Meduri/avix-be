@@ -1,10 +1,10 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-import img1 from "../../assets/images/4_13.png";
-import img2 from "../../assets/images/4_14.png";
-import img3 from "../../assets/images/4_15.png";
-import img4 from "../../assets/images/4_16.png";
+import img1 from "../../assets/images/4_13.webp";
+import img2 from "../../assets/images/4_14.webp";
+import img3 from "../../assets/images/4_15.webp";
+import img4 from "../../assets/images/4_16.webp";
 
 export default function Why() {
 

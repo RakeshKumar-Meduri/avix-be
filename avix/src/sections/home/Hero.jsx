@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import desktopHero from "../../assets/images/4_1.png";
-import mobileHero from "../../assets/images/4_1_mobile.png";
+import desktopHero from "../../assets/images/4_1.webp";
+import mobileHero from "../../assets/images/4_1_mobile.webp";
 
 export default function Hero() {
 

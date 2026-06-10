@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
-import heroDesktop from "../../assets/images/3dpricing1.png"
-import heroMobile from "../../assets/images/3dpricing1-mobile.png"
+import heroDesktop from "../../assets/images/3dpricing1.webp"
+import heroMobile from "../../assets/images/3dpricing1-mobile.webp"
 
 export default function ThreeDHero() {
   return (

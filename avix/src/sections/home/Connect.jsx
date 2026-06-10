@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import contactImg from "../../assets/images/4_18.png";
+import contactImg from "../../assets/images/4_18.webp";
 import emailIcon from "../../assets/images/mail.svg";
 import callIcon from "../../assets/images/call.svg";
 

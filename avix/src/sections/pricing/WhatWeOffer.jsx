@@ -1,7 +1,7 @@
 import { motion } from "framer-motion"
 
-import img1 from "../../assets/images/socialmedia2.png"
-import img2 from "../../assets/images/socialmedia3.png"
+import img1 from "../../assets/images/socialmedia2.webp"
+import img2 from "../../assets/images/socialmedia3.webp"
 
 export default function WhatWeOffer() {
   return (

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import boxIcon from "../../assets/images/Relume.png";
+import boxIcon from "../../assets/images/Relume.webp";
 
 export default function Industries() {
   return (

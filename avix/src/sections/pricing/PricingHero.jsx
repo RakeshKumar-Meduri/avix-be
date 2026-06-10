@@ -1,5 +1,5 @@
-import heroDesktop from "../../assets/images/socialmedia1.png"
-import heroMobile from "../../assets/images/socialmedia1_mobile.png"
+import heroDesktop from "../../assets/images/socialmedia1.webp"
+import heroMobile from "../../assets/images/socialmedia1_mobile.webp"
 
 function PricingHero() {
   return (

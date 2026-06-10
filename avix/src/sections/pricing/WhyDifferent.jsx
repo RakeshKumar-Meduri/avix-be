@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import whyImg from "../../assets/images/socialmedia5.png"
+import whyImg from "../../assets/images/socialmedia5.webp"
 
 export default function WhyDifferent() {
   return (

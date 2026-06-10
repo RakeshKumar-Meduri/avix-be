@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import heroImg from "../../assets/images/1_1.png"
+import heroImg from "../../assets/images/1_1.webp"
 
 function Hero() {
   return (
