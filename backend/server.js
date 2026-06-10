@@ -77,13 +77,12 @@ app.post("/api/contact", async (req, res) => {
         `
       }
 
-      transporter.sendMail(mailOptions, (mailErr, info) => {
-        if (mailErr) {
-          console.error("Error sending email notification:", mailErr)
-        } else {
-          console.log("Email notification sent successfully:", info.response)
-        }
-      })
+      try {
+        const info = await transporter.sendMail(mailOptions)
+        console.log("Email notification sent successfully:", info.response)
+      } catch (mailErr) {
+        console.error("Error sending email notification:", mailErr)
+      }
     } else {
       console.warn("SMTP credentials not configured. Saving contact to database, but skipping email notification.")
     }
