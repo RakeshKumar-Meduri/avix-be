@@ -43,6 +43,10 @@ const transporter = nodemailer.createTransport({
   },
 })
 
+// Silence favicon requests
+app.get("/favicon.ico", (req, res) => res.status(204).end())
+app.get("/favicon.png", (req, res) => res.status(204).end())
+
 app.post("/api/contact", async (req, res) => {
   try {
     const { fullName, email, phone, service, budget, message } = req.body
