@@ -28,7 +28,7 @@ function ContactForm() {
     setLoading(true)
 
     try {
-      const response = await fetch("https://avix-backend.onrender.com/api/contact", {
+      const response = await fetch("http://localhost:8000/api/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
