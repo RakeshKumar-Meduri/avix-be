@@ -28,7 +28,7 @@ function ContactForm() {
     setLoading(true)
 
     try {
-      const response = await fetch("http://localhost:8000/api/contact", {
+      const response = await fetch("https://avix-be.vercel.app/api/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
@@ -68,9 +68,8 @@ function ContactForm() {
       {status && (
         <div className="w-full flex justify-center mb-6">
           <div
-            className={`px-6 py-3 rounded text-white font-medium ${
-              status === "success" ? "bg-green-600" : "bg-red-600"
-            }`}
+            className={`px-6 py-3 rounded text-white font-medium ${status === "success" ? "bg-green-600" : "bg-red-600"
+              }`}
           >
             {status === "success"
               ? "Form submitted successfully!"
@@ -210,11 +209,10 @@ function ContactForm() {
             <button
               type="submit"
               disabled={loading}
-              className={`px-8 py-3 rounded-lg text-white transition ${
-                loading
+              className={`px-8 py-3 rounded-lg text-white transition ${loading
                   ? "bg-gray-500 cursor-not-allowed"
                   : "bg-black hover:bg-gray-800"
-              }`}
+                }`}
             >
               {loading ? "Sending..." : "Send"}
             </button>
